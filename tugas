@@ -1,2 +1,6 @@
 link tugas
 https://docs.google.com/document/d/1Tiub6c0tp6SqLtOeqgzO7ipX6cteAmGHcyETMDfzXu8/edit?usp=sharing
+
+
+setting vs code c#
+cd $dir && dotnet run $fileName
